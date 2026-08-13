@@ -1,2 +1,2 @@
 # Delta-Demo
-This a demo class practice
+This a demo class practice.
